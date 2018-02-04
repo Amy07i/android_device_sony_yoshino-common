@@ -20,6 +20,10 @@ PRODUCT_SOONG_NAMESPACES += \
     $(PLATFORM_PATH) \
     hardware/google/pixel
 
+# Doze
+PRODUCT_PACKAGES += \
+    Doze
+
 QCOM_SOONG_NAMESPACE := $(PLATFORM_PATH)/hardware/qcom-caf
 
 # For android_filesystem_config.h permissions
