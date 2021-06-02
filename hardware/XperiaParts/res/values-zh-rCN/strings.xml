@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_settings_title">Xperia功能</string>
+    <string name="device_settings_summary">额外设置</string>
+
+    <string name="app_name">XperiaParts</string>
+
+    <string name="gesture">手势</string>
+    <string name="glove_mode">手套模式</string>
+    <string name="glove_mode_summary">允许穿戴手套操作屏幕</string>
+    <string name="smart_stamina_mode">智能Stamina模式</string>
+    <string name="smart_stamina_summary">增加clearpad驱动扫描新输入事件的时间</string>
+    <string name="network_switcher">网络选择器</string>
+    <string name="status">状态</string>
+    <string name="sony_modem_notification">索尼Modem通知</string>
+    <string name="sony_modem_notification_summary">开机显示Modem通知</string>
+    <string name="logs">日志</string>
+    <string name="logs_summary">/data/user_de/0/com.sonymobile.customizationselector/files/cs.log</string>
+    <string name="customization_selector">运营商选择器</string>
+    <string name="modem_switcher_activity">运营商配置选择</string>
+    <string name="modem_switcher_activity_summary">如果Modem配置不正确，请手动选择你的运营商Modem文件</string>
+    <string name="network_switcher_service">网络切换服务</string>
+    <string name="ns_summary">如果你的SIM卡只有切换到较低级的网络模式(如3G)时才能正常工作，请启用此服务，它将自动为你完成以下操作。\n开机时使用3G模式，并在SIM卡正常工作后自动切换为LTE模式（如果在网络模式中选择的是LTE优先）</string>
+    <string name="sim_slot">SIM卡槽</string>
+    <string name="sim_slot_summary">选择你想使用网络切换服务的卡槽\n已选卡槽:</string>
+    <string name="ims_title">IMS特性</string>
+    <string name="ims_summary">启用IMS, VoLTE, VoWiFi or WiFi calling <b>需要在官方系统可用</b>.</string>
+</resources>
