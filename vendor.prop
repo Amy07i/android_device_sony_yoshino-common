@@ -93,6 +93,9 @@ persist.vendor.bt.enable.splita2dp=false
 persist.vendor.service.bdroid.ssrlvl=3
 vendor.qcom.bluetooth.soc=cherokee
 
+### BPF
+ro.kernel.ebpf.supported=1
+
 ### CAMERA
 camera.disable_zsl_mode=1
 persist.vendor.camera.expose.aux=1
