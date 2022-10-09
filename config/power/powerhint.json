@@ -28,7 +28,7 @@
       "Name": "CPUBigClusterMaxFreq",
       "Path": "/sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq",
       "Values": [
-        "2457600",
+        "2323200",
         "1958400",
         "1574400",
         "1344000",
@@ -41,7 +41,7 @@
       "Name": "CPUBigClusterMinFreq",
       "Path": "/sys/devices/system/cpu/cpu4/cpufreq/scaling_min_freq",
       "Values": [
-        "2457600",
+        "2323200",
         "1574400",
         "1420800",
         "1344000",
@@ -359,13 +359,13 @@
       "PowerHint": "LAUNCH",
       "Node": "CPUBigClusterMaxFreq",
       "Duration": 3000,
-      "Value": "2457600"
+      "Value": "2323200"
     },
     {
       "PowerHint": "LAUNCH",
       "Node": "CPUBigClusterMinFreq",
       "Duration": 3000,
-      "Value": "2457600"
+      "Value": "2323200"
     },
     {
       "PowerHint": "LAUNCH",
@@ -407,13 +407,13 @@
       "PowerHint": "CAMERA_LAUNCH",
       "Node": "CPUBigClusterMaxFreq",
       "Duration": 1000,
-      "Value": "2457600"
+      "Value": "2323200"
     },
     {
       "PowerHint": "CAMERA_LAUNCH",
       "Node": "CPUBigClusterMinFreq",
       "Duration": 1000,
-      "Value": "2457600"
+      "Value": "2323200"
     },
     {
       "PowerHint": "CAMERA_LAUNCH",
@@ -437,13 +437,13 @@
       "PowerHint": "CAMERA_STREAMING",
       "Node": "CPUBigClusterMaxFreq",
       "Duration": 1000,
-      "Value": "2457600"
+      "Value": "2323200"
     },
     {
       "PowerHint": "CAMERA_STREAMING",
       "Node": "CPUBigClusterMinFreq",
       "Duration": 1000,
-      "Value": "2457600"
+      "Value": "2323200"
     },
     {
       "PowerHint": "CAMERA_STREAMING",
@@ -461,13 +461,13 @@
       "PowerHint": "CAMERA_SHOT",
       "Node": "CPUBigClusterMaxFreq",
       "Duration": 1000,
-      "Value": "2457600"
+      "Value": "2323200"
     },
     {
       "PowerHint": "CAMERA_SHOT",
       "Node": "CPUBigClusterMinFreq",
       "Duration": 1000,
-      "Value": "2457600"
+      "Value": "2323200"
     },
     {
       "PowerHint": "CAMERA_SHOT",
