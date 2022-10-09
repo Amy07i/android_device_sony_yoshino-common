@@ -99,6 +99,11 @@
     <bool name="config_batterySdCardAccessibility">true</bool>
 
     <!-- Doze -->
+    <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
+    <integer name="config_screenBrightnessDoze">17</integer>
+    <bool name="config_dozeAfterScreenOffByDefault">true</bool>
+    <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">false</bool>
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
     <bool name="config_enableAutoPowerModes">true</bool>
 
     <!-- True if the device supports Sustained Performance Mode -->
